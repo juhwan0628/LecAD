@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>LecAD Accessible Player</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <h1>LecAD Accessible Player</h1>
+  <p id="status" role="status" aria-live="polite">manifest를 불러오는 중입니다.</p>
+  <video id="video" controls preload="metadata" aria-label="강의 영상"></video>
+  <section aria-labelledby="controls-title">
+    <h2 id="controls-title">접근성 설정</h2>
+    <label><input id="slideToggle" type="checkbox" checked> 슬라이드 전환 알림</label>
+    <label><input id="deicticToggle" type="checkbox" checked> 지시 표현 알림</label>
+    <button id="describeBtn" type="button" aria-label="현재 슬라이드 자세히 설명">현재 슬라이드 설명 (D)</button>
+  </section>
+  <section aria-labelledby="event-title">
+    <h2 id="event-title">현재 접근성 이벤트</h2>
+    <p id="eventText" aria-live="assertive">없음</p>
+  </section>
+</main>
+<script src="player.js"></script>
+</body>
+</html>

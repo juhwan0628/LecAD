@@ -1,0 +1,36 @@
+# Environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.secrets/
+credentials/
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# Generated, licensed, or user-supplied media
+output/
+demo/
+*.mp4
+*.mp3
+*.wav
+*.m4a
+*.mov
+*.srt
+*.vtt
+*.log
+# Original high-resolution source; use assets/lecad-poster.jpg instead
+/LecAD Poster.jpg
+# Local tooling
+.DS_Store
+.idea/
+.vscode/

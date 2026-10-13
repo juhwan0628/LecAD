@@ -1,0 +1,11 @@
+{
+  "context_radius_s": 15.0,
+  "trigger_min_score": 3,
+  "description": {
+    "max_sentences": 2,
+    "goal": "교수자가 현재 참조하는 시각 정보만 짧게 보충"
+  },
+  "render": {
+    "development_clip_seconds": 30
+  }
+}

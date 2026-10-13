@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lecad"
+version = "0.1.0"
+description = "Accessibility-first lecture audio-description trigger and context pipeline"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+demo = ["edge-tts>=7"]
+
+[project.scripts]
+lecad = "lecad.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["lecad*"]

@@ -1,0 +1,6 @@
+body { font-family: system-ui, sans-serif; margin: 0; line-height: 1.5; background: #fff; color: #111; }
+main { max-width: 960px; margin: 0 auto; padding: 24px; }
+video { width: 100%; background: #000; }
+section { margin-top: 20px; padding: 16px; border: 2px solid #222; }
+label, button { display: block; margin: 10px 0; font-size: 1rem; }
+button:focus, input:focus { outline: 4px solid currentColor; outline-offset: 3px; }

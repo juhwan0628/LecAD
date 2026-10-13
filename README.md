@@ -8,13 +8,9 @@
 
 성균관대학교 컴퓨터교육과 · 지도교수 이장원
 
-[2026-1 SKKU Co-Deep Learning Award](https://www.spressnews.com/news/articleView.html?idxno=138550)
+<a href="https://www.spressnews.com/news/articleView.html?idxno=138550"><img alt="2026-1 SKKU Co-Deep Learning Award" src="https://img.shields.io/badge/Award-2026--1%20SKKU%20Co--Deep%20Learning-C9A34A?style=flat-square&labelColor=30343B" /></a>
 
 </div>
-
-<p align="center">
-  <img src="./assets/lecad-method.jpg" alt="LecAD 음성해설 자동 삽입 시스템 구성도" width="720" />
-</p>
 
 ## Abstract
 

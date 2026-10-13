@@ -1,8 +1,9 @@
 # LecAD
-시각장애 학생의 강의 영상 접근을 위한 AI 기반 음성해설 자동 삽입 시스템
 
-성균관대학교 Co-Deep Learning 프로젝트 · 2026.03–07  
-[2026-1 SKKU Co-Deep Learning Award](https://www.spressnews.com/news/articleView.html?idxno=138550)
+시각장애 학생을 위한 강의 영상 음성해설 자동 삽입 시스템  
+*Lecture Audio Description · ASR / VLM / TTS*
+
+<sub>성균관대학교 Co-Deep Learning · 2026.03–07 &nbsp;|&nbsp; <a href="https://www.spressnews.com/news/articleView.html?idxno=138550">2026-1 Co-Deep Learning Award ↗</a></sub>
 
 ## 소개
 

@@ -2,7 +2,7 @@
 시각장애 학생의 강의 영상 접근을 위한 AI 기반 음성해설 자동 삽입 시스템
 
 성균관대학교 Co-Deep Learning 프로젝트 · 2026.03–07  
-2026 Co-Deep Learning 프로젝트 수상
+[2026-1 SKKU Co-Deep Learning Award](https://www.spressnews.com/news/articleView.html?idxno=138550)
 
 ## 소개
 
@@ -49,7 +49,5 @@ flowchart LR
 
 ## 연구진
 
-성균관대학교 컴퓨터교육과 · 도정현, 허주환, 구성은, 김나연  
+성균관대학교 컴퓨터교육과 · [도정현](https://github.com/MrDoLab), [허주환](https://github.com/juhwan0628), [구성은](https://github.com/sseuniiill-dot), [김나연](https://github.com/GiveMeKite)  
 지도교수: 이장원
-
-GitHub: [@juhwan0628](https://github.com/juhwan0628) · [@MrDoLab](https://github.com/MrDoLab) · [@GiveMeKite](https://github.com/GiveMeKite) · [@sseuniiill-dot](https://github.com/sseuniiill-dot)
